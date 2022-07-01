@@ -12,6 +12,22 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
+✔️ Web Development
+- Web Basics: HTML5, CSS3, JavaScript, jQuery, Prototype
+- JavaScript Full Stack : TypeScript, Angular.js, React.js, Node.js, Express
+- CMS : Wordpress, Drupal, Joomla, Typo3
+- e-Commerce : WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
+- PHP Full Stack : Laravel, CodeIgniter, CakePHP,
+- GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
+- Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
+
+✔️ Mobile App Development
+- Flutter, Dart, Xamarin, Ionic, React Native,  Objective-C, Swift, SwiftUI, Kotlin
+
+✔️ Windows desktop app Development
+- C++, Windows API, Qt, MFC, Python, pyQt
+
+✔️ Blockchain
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
 - DAO, DEX, AMM, Yield Farming, Staking dApps
 - Smart contract development & unit test
