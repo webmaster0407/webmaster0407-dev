@@ -12,7 +12,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
-✔️ Web Development
+#### Web & Mobile Development
 - Web Basics: HTML5, CSS3, JavaScript, jQuery, Prototype
 - JavaScript Full Stack : TypeScript, Angular.js, React.js, Node.js, Express
 - CMS : Wordpress, Drupal, Joomla, Typo3
@@ -20,24 +20,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 - PHP Full Stack : Laravel, CodeIgniter, CakePHP,
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
-
-✔️ Mobile App Development
 - Flutter, Dart, Xamarin, Ionic, React Native,  Objective-C, Swift, SwiftUI, Kotlin
-
-✔️ Windows desktop app Development
-- C++, Windows API, Qt, MFC, Python, pyQt
-
-✔️ Blockchain
-- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
-- DAO, DEX, AMM, Yield Farming, Staking dApps
-- Smart contract development & unit test
-- NFT marketplace, NFT minting
-- CEX Trading Bot (Crypto Exchange APIs, CCXT library)
-- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
-- NFT mint bot, Opensea sniper bot, Opensea offer bot
-- Web3 chrome extension
-
-#### Web & Mobile Development
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
@@ -47,7 +30,18 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
+#### Windows desktop app Development
+- C++, Windows API, Qt, MFC, Python, pyQt
+
 #### Blockchain Development
+- Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
+- DAO, DEX, AMM, Yield Farming, Staking dApps
+- Smart contract development & unit test
+- NFT marketplace, NFT minting
+- CEX Trading Bot (Crypto Exchange APIs, CCXT library)
+- DeFi Trading Bot (Flashloan Arbitrage Bot, DEX Sniper Bot, DEX Sandwich Bot) 
+- NFT mint bot, Opensea sniper bot, Opensea offer bot
+- Web3 chrome extension
 ![](https://img.shields.io/badge/Network-BitCoin-informational?style=flat&logo=bitcoin&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Language-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=3bac3a)
