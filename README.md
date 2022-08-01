@@ -9,7 +9,6 @@ broad yet experienced skillset. Intuitive problem-solving skills and proficient 
 back-end development, mobile app development, system and application security, auditing
 and project management and blockchain technology.
 
-Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
