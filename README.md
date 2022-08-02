@@ -13,14 +13,17 @@ and project management and blockchain technology.
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
 #### Web & Mobile Development
-- Web Basics: HTML5, CSS3, JavaScript, jQuery, Prototype
-- JavaScript Full Stack : TypeScript, Angular.js, React.js, Node.js, Express
-- CMS : Wordpress, Drupal, Joomla, Typo3
-- e-Commerce : WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
-- PHP Full Stack : Laravel, CodeIgniter, CakePHP,
+- HTML5, CSS3, JavaScript, jQuery, Prototype
+- C#, .NET, .NET Core, ASP.NET, Entity Framework
+- TypeScript, Angular.js, React.js, Node.js, Express
+- Python, Django, Flask, Odoo
+- Cloud, AWS, Cloudinary, AWS Amplify, Azure, Firebase
+- Wordpress, Drupal, Joomla, Typo3
+- WooCommerce, Shopify, Magento, Drupal Commerce, OpenCart, Prestashop
+- Laravel, CodeIgniter, CakePHP,
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
-- Flutter, Dart, Xamarin, Ionic, React Native,  Objective-C, Swift, SwiftUI, Kotlin
+- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin
 
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
@@ -33,7 +36,7 @@ and project management and blockchain technology.
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
 
 #### Windows desktop app Development
-- C++, Windows API, Qt, MFC, Python, pyQt
+- C++, Windows API, Qt, MFC, Python, pyQt, C#, .NET, .NET Core
 
 #### Blockchain Development
 - Creating fungible/non-fungible tokens (ERC20, ERC721, ERC1155, BEP20...)
