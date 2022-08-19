@@ -23,7 +23,7 @@ and project management and blockchain technology.
 - Laravel, CodeIgniter, CakePHP,
 - GraphQL, MongoDB, MySQL, PostgreSQL, MSSQL
 - Google Analytics, Google Tag Manager, Search Engine Optimization, Page Speed Optimization
-- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin
+- Flutter, Dart, Xamarin, Ionic, React Native, Objective-C, Swift, SwiftUI, Kotlin 
 
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
