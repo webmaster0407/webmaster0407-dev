@@ -10,7 +10,7 @@ back-end development, mobile app development, system and application security, a
 and project management and blockchain technology.
 
 
-<img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="256" />
 
 #### Web & Mobile Development
 - HTML5, CSS3, JavaScript, jQuery, Prototype
